@@ -32,7 +32,7 @@ Hugo can be installed by following
 Hugo (extended) releases can be downloaded from
 [the Hugo releases page](https://github.com/gohugoio/hugo/releases).
 
-To install npm+nodejs please check the
+To install `npm+nodejs` please check the
 [official instructions](https://www.npmjs.com/get-npm).
 
 Everything has been tested with Node.js 12.
